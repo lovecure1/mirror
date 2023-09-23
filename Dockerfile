@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/kafka:3.5.1-debian-11-r0
+FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
