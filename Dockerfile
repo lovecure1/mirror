@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM docker.pkg.github.com/martin-helmich/prometheus-nginxlog-exporter/exporter:v1
