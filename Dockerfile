@@ -1,1 +1,1 @@
-FROM quay.io/martinhelmich/prometheus-nginxlog-exporter
+FROM quay.io/martinhelmich/prometheus-nginxlog-exporter:stable
