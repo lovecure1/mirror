@@ -1,1 +1,1 @@
-FROM quay.io/martinhelmich/prometheus-nginxlog-exporter:v1
+FROM mysql:5.7
